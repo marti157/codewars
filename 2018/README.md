@@ -1,5 +1,5 @@
 # Codewars 2018
-### Problems I solved
+Here you will find all the problems our team solved during this event.
 
 ## All problems:
 ![AllProblems.png](img/AllProblems.png)
