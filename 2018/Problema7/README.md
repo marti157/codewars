@@ -1,1 +1,1 @@
-![Problema7](../img/Problema7.png)
+![Problema7](../img/Problem7.png)
