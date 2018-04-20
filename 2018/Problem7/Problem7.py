@@ -1,9 +1,9 @@
 a = []
 try:
 	while True:
-		v = int(raw_input())
-		if v != 0:
-			a.append(v)
+		x = int(raw_input())
+		if x != 0:
+			a.append(x)
 		else:
 			break
 except ValueError:
